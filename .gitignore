@@ -1,0 +1,12 @@
+# Large generated model; GitHub blocks files over 100 MB.
+Python/best_rf_model.pkl
+
+# Python notebook and tooling cache
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+
+# Local environment files
+.env
+.venv/
+venv/
